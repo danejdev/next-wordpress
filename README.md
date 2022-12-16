@@ -1,4 +1,4 @@
-This is starter template for using NextJS with a headless Wordpress Backend.
+This template utilizes GraphQL to facilitate communication between a Wordpress backend and NextJS frontend.
 
 1. npm install
 
