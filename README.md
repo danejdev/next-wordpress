@@ -5,7 +5,7 @@ This template utilizes GraphQL to facilitate communication between a Wordpress b
 2. Install and activate the following plugins on your WordPress installation:
 
 - <a href="https://wordpress.org/plugins/wp-graphql/">WPGraphQL</a>
-- - <a href="https://www.wpgraphql.com/acf">Advanced Custom Fields (ACF)</a>
+- <a href="https://www.wpgraphql.com/acf">Advanced Custom Fields (ACF)</a>
 - <a href="https://wordpress.org/plugins/advanced-custom-fields/">WPGraphQL for ACF</a>
 
 3. Locate and copy the GraphQL endpoint from the settings page of the WPGraphQL plugin.
